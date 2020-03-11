@@ -7,7 +7,7 @@ description: Public Portfolio
 # User settings
 username: Philip Bertemes
 user_description: I'm a PhD Student. I currently study temporary adhesion in flatworms, especially the morphology of adhesion organs, and the characteristics of the secreted adhesion proteins. I am also interested in the regeneration processess of different flatworm taxa. I am a PhD student in the labs of <a href="https://www.uibk.ac.at/zoology/staff/ladurner/index.html.en"> Dr. Peter Ladurner</a> and <a href="https://www.uibk.ac.at/zoology/staff/egger/index.html.en"> PD Dr. Bernhard Egger</a>. My ORCiD is 0000-0002-8892-1538.
-user_title: PhD Student <br> <h2>Institute of Zoology, University of Innsbruck, Austria</h2>
+user_title: PhD Student <br> <h2 style="color:#e3e3e3;">Institute of Zoology, University of Innsbruck, Austria</h2>
 email: philip.bertemes@uibk.ac.at
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
